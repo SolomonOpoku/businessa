@@ -1,0 +1,106 @@
+header{
+    text-align: center;
+    background-color: #4b4b4b;
+    color: white;
+    margin: 0;
+    padding: 8px;
+}
+p{
+    text-align: center;
+    color: white;
+    background-color: #424040;
+    margin: 0;
+    padding: 5px;
+}
+table, th, tr, td{
+    margin: 10px;
+    line-height: 30px;
+    right: 0;
+    left: 10px;
+}
+body{
+    margin-left: 10px;
+     margin-right: 10px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    position: fixed;
+    top: 600px;
+    left: 1000px;
+    padding: 5px;
+    margin: 0;
+    display: inline-block;
+    width: 15%;
+}
+td{
+    line-height: 30px;
+}
+/* div a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    position: fixed;
+    top: 600px;
+    left: 1150px;
+    padding: 5px;
+    margin: 0;
+    display: inline-block;
+    width: 15%;
+} */
+@media screen and (max-width: 450px){
+    /* div a{
+        text-decoration: none;
+        color: black;
+        font-size: 20px;
+        position: sticky;
+        top: 600px;
+        /* left: 1150px; */
+        /* padding: 5px; */
+        /* margin: 0; */
+        /* display: inline-block;
+        width: 10%;
+    } */ */
+    nav a{
+        text-decoration: none;
+        color: black;
+        font-size: 20px;
+        position: sticky;
+        top: 600px;
+        /* left: 1000px; */
+        /* padding: 5px; */
+        /* margin: 0; */
+        display: inline-block;
+        width: 15%;
+    }
+    table, th, tr, td{
+        margin: 10px;
+        line-height: 35px;
+        /* right: 0; */
+        /* left: 10px; */
+    }
+}
+@media screen and (max-width: 500px){
+    /* div a{
+        position: sticky;
+        top: 600px;
+        /* left: 1150px; */
+        /* padding: 5px; */
+        /* margin: 0; */
+        /* display: inline-block;
+        width: 10%; 
+    } */
+    nav a{
+        position: sticky;
+        top: 100px;
+        /* left: 1000px; */
+        /* padding: 5px; */
+        /* margin: 0; */
+        /* display: inline-block; */
+        width: 15%;
+    }
+    td{
+        line-height: 25px;
+    }
+}

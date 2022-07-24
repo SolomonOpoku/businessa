@@ -1,0 +1,211 @@
+body, ul, li, a{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans Unicode';
+}
+
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    background: #4b4b4b;
+    color: white;
+    padding: 5px;
+    z-index: 1;
+    
+}
+header h1{
+    border: 8px solid white;
+    border-radius: 30px;
+    padding: 0 6px;
+    display: inline-block;
+}
+
+/* .BusA{
+    position: relative; 
+} */
+
+/* .BusA img{
+    width: 100%;
+} */
+/* .BusA .Santos{
+    position: absolute;
+} */
+
+.Santos{
+    color: black;
+    background-color: #d4cccb5d;
+    padding: 20px;
+    position: fixed;
+    top: 30%;
+    left: 0;
+    border-radius: 100px;
+}
+span{
+    font-size: 1.0em;
+}
+.Santos h2{
+    font-size: 38px;
+}
+nav{
+    background-color: #F4F4F4;
+    padding: 20px;
+    position: sticky;
+    top: 110px;
+    right: 0;
+}
+nav ul{
+    white-space: nowrap;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.Baron li{
+    display: inline-block;
+    width: 40%;
+    font-size: 18px;  
+}
+nav  li a{
+    text-decoration: none;
+    color: #4b4b4b;
+}
+.images{
+    white-space: nowrap;
+}
+.images li{
+    display: inline-block;
+    width: 40%;
+    margin: 20px 5%;
+}
+.images li img{
+    max-width: 100%;
+}
+main{
+    max-width: 100%;
+    width: 1200px;
+    margin: 80px auto;
+    padding: 0 40px;
+    box-sizing: border-box;
+}
+article h2{
+    color: #4b4b4b;
+    font-size: 46px;
+    text-align: center;
+    /* display: inline-block; */
+    position: relative;
+     top: 40px;
+    left: 30px;
+}
+article p{
+    line-height: 2em;
+    color: #4b4b4b;
+}
+.more h2{
+    text-align: center;
+    color: #4b4b4b;
+}
+.more p{
+    color: #4b4b4b;
+    box-sizing: border-box;
+    max-width: 100%;
+    width: 1200px;
+    margin: 80px auto;
+    padding: 0 40px;
+}
+footer{
+    background: #4b4b4b;
+    color: white;
+    text-align: center;
+    padding: 10px;
+
+}
+nav li a:hover{
+    text-decoration: underline;
+}
+.images li:hover{
+    position: relative;
+    top: -5px;
+}
+@media screen and (max-width: 800px) {
+    .Santos h2{
+        font-size: 30px;
+    }
+    .Baron li{
+        font-size: 14px;
+    }
+}
+@media screen and (max-width: 650px) {
+    .Santos h2{
+        font-size: 20px;
+    }
+    .Santos{
+        padding: 10px;
+        position: absolute;
+        top: 50%;
+        left: 0;
+    }
+
+}
+@media screen and (max-width: 550px){
+    .BusA{
+        width: 700px;
+    }
+    .Santos{
+        padding: 5px;
+        position: absolute;
+        top: 45%;
+        left: 0;
+    }
+    .Baron li{
+        font-size: 75%;
+    }
+}
+@media screen and (max-width: 450px){
+    .Santos{
+        position: static;
+        text-align: center;
+    }
+    .BusA .Santos br{
+        display: none;
+    }
+    /* .BusA img{
+        width: 50px;
+    } */
+    /* .Baron li{ */
+        /* background: ; */
+    /* } */
+}
+@media screen and (max-width: 360px){
+    article h2{
+         top: -20px;
+        left: 30px;
+    }
+    .Baron li{
+        display: block;
+        font-size: 14px;  
+    }
+    nav ul{
+        white-space: none;
+    }
+    nav{
+        right: 0;
+        background-color: white;
+        line-height: 25px;
+        padding: 0;
+        position: static;
+    }
+    .Santos{
+        padding: 5px;
+        position: static;
+        display: inline-block;
+    }
+    header{
+        position: static;
+        padding: 4px;
+        
+    }
+     .Santos h2{
+        text-align: center;
+     }
+}

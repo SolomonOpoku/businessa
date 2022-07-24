@@ -1,0 +1,13 @@
+header{
+    text-align: center;
+
+}
+li{
+    font-size: 25px;
+    font-family: 'Lucida Sans';
+    font-style: bold;
+    color: #4b4b4b;
+}
+body{
+    background-color: #15103d6e;
+}

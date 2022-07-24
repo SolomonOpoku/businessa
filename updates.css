@@ -1,0 +1,1065 @@
+body{
+    background-color: black;
+}
+p{
+    color: white;
+}
+header{
+    color: white;
+    background-color: #4b4b4b;
+    text-align: center;
+    position: static;
+    top: 0;
+    left: 0; 
+    border: 8px dashed white;
+    padding: 10px;
+}
+h3{
+    color: white;
+    text-align: center;
+}
+ul li img{
+    max-width: 100%;
+}
+.magic li{
+    width: 15%;
+    margin: 10px 5%;
+    position: static;
+    display: inline-block;
+}
+nav p{
+    position: absolute;
+    top: 150px;
+    left: 330px;
+    color: white;
+    white-space: pre-line;
+   padding: 10px;
+   margin: 5px;
+}
+.media li{
+    width: 15%;
+    margin: 10px 5%;
+    position: static;
+    display: inline-block;
+}
+article .uzor{
+    position: absolute;
+    top: 465px;
+    left: 330px;
+    color: #4b4b4b;
+    white-space: pre-line;
+}
+article .fourfour{
+      position: absolute;
+      top: 740px;
+      left: 330px;
+      color: #4b4b4b;
+      white-space: pre-line;
+}
+.tech li{
+    width: 15%;
+    margin: 10px 5%;
+    position: static;
+    display: inline-block;
+}
+.cool li{
+    width: 15%;
+    margin: 10px 5%;
+    position: static;
+    display: inline-block;
+}
+article .jerry{
+    position: absolute;
+    top: 1070px;
+    left: 330px;
+    color: #4b4b4b;
+    white-space: pre-line;
+}
+.bicycle li{
+    width: 15%;
+    margin: 10px 5%;
+    position: static;
+    display: inline-block;
+}
+article .tusse{
+    position: absolute;
+    top: 1410px;
+    left: 330px;
+    color: #4b4b4b;
+    white-space: pre-line;
+}
+.amasaman li{
+    width: 15%;
+    margin: 10px 5%;
+    position: static;
+    display: inline-block;
+}
+article .baron{
+    position: absolute;
+    top: 1760px;
+    left: 330px;
+    color: #4b4b4b;
+    white-space: pre-line;
+}
+.barca li{
+    width: 15%;
+    margin: 10px 5%;
+    position: static;
+    display: inline-block;
+}
+article .santos{
+    position: absolute;
+    top: 2100px;
+    left: 330px;
+    color: #4b4b4b;
+    white-space: pre-line;
+}
+.dark li{
+    width: 15%;
+    margin: 10px 5%;
+    position: static;
+    display: inline-block;
+}
+article .mimi{
+    position: absolute;
+    top: 2445px;
+    left: 330px;
+    color: #4b4b4b;
+    white-space: pre-line;
+}
+.cpee li{
+    width: 15%;
+    margin: 15px 5%;
+    position: static;
+    display: inline-block;
+}
+article .precious{
+    position: absolute;
+    top: 2790px;
+    left: 330px;
+    color: #4b4b4b;
+    white-space: pre-line;
+}
+.hair li{
+    width: 15%;
+    margin: 10px 5%;
+    position: static;
+    display: inline-block;
+}
+article .muna{
+    position: absolute;
+    top: 3140px;
+    left: 350px;
+    color: #4b4b4b;
+    white-space: pre-line;
+}
+.godfearing li{
+    width: 15%;
+    margin: 10px 5%;
+    position: static;
+    display: inline-block;
+}
+article .omotoyoski{
+    position: absolute;
+    top: 3480px;
+    left: 350px;
+    color: #4b4b4b;
+    white-space: pre-line;
+}
+.rugby li{
+    width: 15%;
+    margin: 10px 5%;
+    position: static;
+    display: inline-block;
+}
+article .kabutey{
+    position: absolute;
+    top: 3750px;
+    left: 350px;
+    color: #4b4b4b;
+    white-space: pre-line;
+}
+.soccer li{
+    width: 15%;
+    margin: 10px 5%;
+    position: static;
+    display: inline-block;
+}
+article .supa{
+    position: absolute;
+    top: 4080px;
+    left: 350px;
+    color: #4b4b4b;
+    white-space: pre-line;
+}
+.Q li{
+    width: 15%;
+    margin: 10px 5%;
+    position: static;
+    display: inline-block;
+}
+article .princeQ{
+    position: absolute;
+    top: 4380px;
+    left: 350px;
+    color: #4b4b4b;
+    white-space: pre-line;
+}
+.A li{
+    width: 15%;
+    margin: 10px 5%;
+    position: static;
+    display: inline-block;
+}
+article .princeA{
+    position: absolute;
+    top: 4720px;
+    left: 350px;
+    color: #4b4b4b;
+    white-space: pre-line;
+}
+.vision li{
+    width: 15%;
+    margin: 10px 5%;
+    position: static;
+    display: inline-block;
+}
+article .samuel{
+    position: absolute;
+    top: 5060px;
+    left: 350px;
+    color: #4b4b4b;
+    white-space: pre-line; 
+}
+.abubakar li{
+    width: 15%;
+    margin: 10px 5%;
+    position: static;
+    display: inline-block;
+}
+article .buba{
+    position: absolute;
+    top: 5340px;
+    left: 350px;
+    color: #4b4b4b;
+    white-space: pre-line;
+}
+.wallpaper li{
+    width: 15%;
+    margin: 10px 5%;
+    position: static;
+    display: inline-block;
+}
+article .k3{
+    position: absolute;
+    top: 5760px;
+    left: 350px;
+    color: #4b4b4b;
+    white-space: pre-line;
+}
+.benz li{
+    width: 15%;
+    margin: 10px 5%;
+    position: static;
+    display: inline-block;
+}
+article .kobby{
+    position: absolute;
+    top: 6150px;
+    left: 350px;
+    color: #4b4b4b;
+    white-space: pre-line; 
+}
+.ladyp li{
+    width: 15%;
+    margin: 10px 5%;
+    position: static;
+    display: inline-block;
+}
+article .pat{
+    position: absolute;
+    top: 6430px;
+    left: 350px;
+    color: #4b4b4b;
+    white-space: pre-line;
+}
+.xixta li{
+    width: 15%;
+    margin: 10px 5%;
+    position: static;
+    display: inline-block;
+}
+article .deborah{
+    position: absolute;
+    top: 6700px;
+    left: 350px;
+    color: #4b4b4b;
+    white-space: pre-line;
+}
+.rider li{
+    width: 15%;
+    margin: 10px 5%;
+    /* position: absolute; */
+    display: inline-block;
+    
+}
+article .kila{
+    position: absolute;
+    top: 6980px;
+    left: 350px;
+
+    color: #4b4b4b;
+    white-space: pre-line;
+}
+img:hover{
+    position: relative;
+    top: -15px;
+}
+/* p{
+    color: red;
+} */
+
+/* Navigation section */
+
+/* .page li{
+     display: inline-block;
+     width: 15%;
+     font-size: 20px;
+     
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    position: fixed;
+    top: 610px;
+    left: 1250px;
+    /* background-color: white; */
+    /* padding: 5px;
+    margin: 0; */
+/* } */ 
+.Page a{
+    display: inline-block;
+     width: 15%;
+     font-size: 20px;
+}
+section a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    position: fixed;
+    top: 610px;
+    left: 1100px;
+    /* background-color: white; */
+    padding: 5px;
+    margin: 0;
+}
+/* div{
+    left: 1100px;
+    background-color: #4b4b4b;
+    padding: 10px;
+} */
+
+/* RESPONSIVE MEDIA 1115px */
+
+@media screen and (max-width: 1115px){
+    nav p{
+        top: 140px;
+    }
+    article .uzor{
+        top: 415px;
+        left: 330px;
+    }
+    article .fourfour{
+          top: 655px;
+    }
+    article .jerry{
+        top: 935px;
+    }
+    article .tusse{
+        top: 1230px;
+    }
+    article .baron{
+        top: 1520px;
+    }
+    article .santos{
+        top: 1810px;
+    }
+    article .mimi{
+        top: 2105px;
+    }
+    article .precious{
+        top: 2400px;
+    }
+    article .muna{
+        top: 2700px;
+    }
+    article .omotoyoski{
+        top: 2990px;
+    }
+    article .kabutey{
+        top: 3230px;
+    }
+    article .supa{
+        top: 3500px;
+    }
+    article .princeQ{
+        top: 3760px;
+    }
+    article .princeA{
+        top: 4050px;
+    }
+    article .samuel{
+        top: 4340px; 
+    }
+    
+    article .buba{
+        top: 4580px;
+    }
+    article .k3{
+        top: 4940px;
+    }
+    article .kobby{
+        top: 5270px; 
+    }
+    article .pat{
+        top: 5510px;
+    }
+    article .deborah{
+        top: 5750px;
+    }
+    article .kila{
+        top: 5990px;
+    }
+    section a{
+        /* font-size: 20px; */
+        position: relative;
+        top: 700px;
+        left: 990px;
+    }
+}
+    /* SECOND RESPONSIVENESS 900px*/
+
+
+    @media screen and (max-width: 900px){
+        nav p{
+            top: 140px;
+            left: 250px;
+        }
+        article .uzor{
+            top: 370px;
+            left: 260px;
+        }
+        article .fourfour{
+              top: 580px;
+              left: 260px;
+        }
+        article .jerry{
+            top: 820px;
+            left: 260px;
+        }
+        article .tusse{
+            top: 1070px;
+            left: 260px;
+        }
+        article .baron{
+            top: 1320px;
+            left: 260px;
+        }
+        article .santos{
+            top: 1570px;
+            left: 260px;
+        }
+        article .mimi{
+            top: 1820px;
+            left: 260px;
+        }
+        article .precious{
+            top: 2070px;
+            left: 260px;
+        }
+        article .muna{
+            top: 2320px;
+            left: 260px;
+        }
+        article .omotoyoski{
+            top: 2570px;
+            left: 260px;
+        }
+        article .kabutey{
+            top: 2780px;
+            left: 260px;
+        }
+        article .supa{
+            top: 3020px;
+            left: 260px;
+        }
+        article .princeQ{
+            top: 3240px;
+            left: 260px;
+        }
+        article .princeA{
+            top: 3490px;
+            left: 260px;
+        }
+        article .samuel{
+            top: 3735px;
+            left: 260px; 
+        }
+        article .buba{
+            top: 3940px;
+            left: 260px;
+        }
+        article .k3{
+            top: 4240px;
+            left: 260px;
+        }
+        article .kobby{
+            top: 4520px;
+            left: 260px; 
+        }
+        article .pat{
+            top: 4730px;
+            left: 260px;
+        }
+        article .deborah{
+            top: 4940px;
+            left: 260px;
+        }
+        article .kila{
+            top: 5140px;
+            left: 260px;
+        }
+    }
+
+    /* THIRD RESPONSIVENESS 650px */
+@media screen and (max-width: 650px){
+    nav p{
+        top: 143px;
+        left: 200px;
+    }
+    article .uzor{
+        top: 323px;
+        left: 220px;
+    }
+    article .fourfour{
+          top: 494px;
+          left: 220px;
+    }
+    article .jerry{
+        top: 685px;
+        left: 220px;
+    }
+    article .tusse{
+        top: 885px;
+        left: 220px;
+    }
+    article .baron{
+        top: 1085px;
+        left: 220px;
+    }
+    article .santos{
+        top: 1290px;
+        left: 210px;
+        font-size: 13px;
+    }
+    article .mimi{
+        top: 1480px;
+        left: 220px;
+    }
+    article .precious{
+        top: 1690px;
+        left: 220px;
+    }
+    article .muna{
+        top: 1890px;
+        left: 220px;
+    }
+    article .omotoyoski{
+        top: 2090px;
+        left: 220px;
+    }
+    article .kabutey{
+        top: 2260px;
+        left: 220px;
+    }
+    article .supa{
+        top: 2450px;
+        left: 220px;
+    }
+    article .princeQ{
+        top: 2630px;
+        left: 220px;
+    }
+    article .princeA{
+        top: 2830px;
+        left: 220px;
+    }
+    article .samuel{
+        top: 3030px;
+        left: 220px; 
+    }
+    article .buba{
+        top: 3190px;
+        left: 220px;
+    }
+    article .k3{
+        top: 3430px;
+        left: 220px;
+    }
+    article .kobby{
+        top: 3652px;
+        left: 220px; 
+    }
+    article .pat{
+        top: 3820px;
+        left: 220px;
+    }
+    article .deborah{
+        top: 3990px;
+        left: 220px;
+    }
+    article .kila{
+        top: 4160px;
+        left: 220px;
+    }
+} 
+
+/* FOURTH RESPONSIVENESS 550px */
+
+
+@media screen and (max-width: 550px){
+    /* body, article{
+        /* line-height: 20px; */
+        /* word-spacing: 10px; */
+    /* } */ */
+    h3{
+        display: inline-block;
+        line-height: 35px;
+    }
+    nav p{
+        top: 170px;
+        left: 180px;
+    }
+    article .uzor{
+        top: 375px;
+        left: 200px;
+    }
+    article .fourfour{
+          top: 575px;
+          left: 200px;
+    }
+    article .jerry{
+        top: 795px;
+        left: 200px;
+    }
+    article .tusse{
+        top: 1020px;
+        left: 200px;
+    }
+    article .baron{
+        top: 1245px;
+        left: 200px;
+    }
+    article .santos{
+        top: 1475px;
+        left: 210px;
+        font-size: 13px;
+    
+    }
+    article .mimi{
+        top: 1690px;
+        left: 200px;
+    }
+    article .precious{
+        top: 1925px;
+        left: 200px;
+    }
+    article .muna{
+        top: 2150px;
+        left: 200px;
+    }
+    article .omotoyoski{
+        top: 2370px;
+        left: 200px;
+    }
+    article .kabutey{
+        top: 2570px;
+        left: 200px;
+    }
+    article .supa{
+        top: 2785px;
+        left: 200px;
+    }
+    article .princeQ{
+        top: 2996px;
+        left: 200px;
+    }
+    article .princeA{
+        top: 3220px;
+        left: 200px;
+    }
+    article .samuel{
+        top: 3440px;
+        left: 200px; 
+    }
+    article .buba{
+        top: 3640px;
+        left: 200px;
+    }
+    article .k3{
+        top: 3897px;
+        left: 200px;
+    }
+    article .kobby{
+        top: 4140px;
+        left: 200px; 
+    }
+    article .pat{
+        top: 4340px;
+        left: 200px;
+    }
+    article .deborah{
+        top: 4540px;
+        left: 200px;
+    }
+    article .kila{
+        top: 4740px;
+        left: 200px;
+    }
+}
+
+/* FIFTH RESPONSIVENESS 460px */
+
+
+@media screen and (max-width: 460px){
+    nav p{
+        top: 170px;
+        left: 160px;
+    }
+    article .uzor{
+        top: 355px;
+        left: 180px;
+    }
+    article .fourfour{
+          top: 545px;
+          left: 180px;
+    }
+    article .jerry{
+        top: 745px;
+        left: 180px;
+    }
+    article .tusse{
+        top: 950px;
+        left: 180px;
+    }
+    article .baron{
+        top: 1160px;
+        left: 180px;
+    }
+    article .santos{
+        top: 1350px;
+        left: 190px;
+        font-size: 13px;
+    
+    }
+    article .mimi{
+        top: 1570px;
+        left: 180px;
+    }
+    article .precious{
+        top: 1780px;
+        left: 180px;
+    }
+    article .muna{
+        top: 1990px;
+        left: 180px;
+    }
+    article .omotoyoski{
+        top: 2195px;
+        left: 180px;
+    }
+    article .kabutey{
+        top: 2380px;
+        left: 180px;
+    }
+    article .supa{
+        top: 2590px;
+        left: 180px;
+    }
+    article .princeQ{
+        top: 2780px;
+        left: 180px;
+    }
+    article .princeA{
+        top: 2980px;
+        left: 180px;
+    }
+    article .samuel{
+        top: 3190px;
+        left: 180px; 
+    }
+    article .buba{
+        top: 3380px;
+        left: 180px;
+    }
+    article .k3{
+        top: 3607px;
+        left: 180px;
+    }
+    article .kobby{
+        top: 3820px;
+        left: 180px; 
+    }
+    article .pat{
+        top: 4010px;
+        left: 180px;
+    }
+    article .deborah{
+        top: 4200px;
+        left: 180px;
+    }
+    article .kila{
+        top: 4380px;
+        left: 180px;
+    }
+}
+
+/* SIXTH RESPONSIVENESS 400px  */
+
+
+@media screen and (max-width: 400px){
+    nav p{
+        top: 200px;
+        left: 160px;
+    }
+    article .uzor{
+        top: 375px;
+        left: 180px;
+    }
+    article .fourfour{
+          top: 550px;
+          left: 180px;
+    }
+    article .jerry{
+        top: 745px;
+        left: 180px;
+    }
+    article .tusse{
+        top: 940px;
+        left: 180px;
+    }
+    article .baron{
+        top: 1130px;
+        left: 180px;
+    }
+    article .santos{
+        top: 1290px;
+        left: 190px;
+        font-size: 13px;
+    
+    }
+    article .mimi{
+        top: 1520px;
+        left: 180px;
+    }
+    article .precious{
+        top: 1720px;
+        left: 180px;
+    }
+    article .muna{
+        top: 1910px;
+        left: 180px;
+    }
+    article .omotoyoski{
+        top: 2110px;
+        left: 180px;
+    }
+    article .kabutey{
+        top: 2280px;
+        left: 180px;
+    }
+    article .supa{
+        top: 2480px;
+        left: 180px;
+    }
+    article .princeQ{
+        top: 2660px;
+        left: 180px;
+    }
+    article .princeA{
+        top: 2850px;
+        left: 180px;
+    }
+    article .samuel{
+        top: 3040px;
+        left: 180px; 
+    }
+    article .buba{
+        top: 3220px;
+        left: 180px;
+    }
+    article .k3{
+        top: 3437px;
+        left: 180px;
+    }
+    article .kobby{
+        top: 3640px;
+        left: 180px; 
+    }
+    article .pat{
+        top: 3820px;
+        left: 180px;
+    }
+    article .deborah{
+        top: 4000px;
+        left: 180px;
+    }
+    article .kila{
+        top: 4170px;
+        left: 180px;
+    }
+}
+/* SEVENTH AND FINAL RESPONSIVENESS 360px */
+
+
+@media screen and (max-width: 360px){
+    h3{
+        display: inline-block;
+        line-height: 55px;
+    }
+    nav p{
+        top: 193px;
+        left: 160px;
+        font-size: 15px;
+    }
+    article .uzor{
+        top: 385px;
+        left: 180px;
+    }
+    article .fourfour{
+          top: 570px;
+          left: 180px;
+    }
+    article .jerry{
+        top: 775px;
+        left: 180px;
+    }
+    article .tusse{
+        top: 990px;
+        left: 180px;
+    }
+    article .baron{
+        top: 1190px;
+        left: 180px;
+    }
+    article .santos{
+        top: 1390px;
+        left: 190px;
+        font-size: 12px;
+    
+    }
+    article .mimi{
+        top: 1630px;
+        left: 180px;
+    }
+    article .precious{
+        top: 1840px;
+        left: 180px;
+    }
+    article .muna{
+        top: 2040px;
+        left: 180px;
+    }
+    article .omotoyoski{
+        top: 2240px;
+        left: 180px;
+    }
+    article .kabutey{
+        top: 2440px;
+        left: 180px;
+    }
+    article .supa{
+        top: 2640px;
+        left: 180px;
+    }
+    article .princeQ{
+        top: 2840px;
+        left: 180px;
+    }
+    article .princeA{
+        top: 3040px;
+        left: 180px;
+    }
+    article .samuel{
+        top: 3240px;
+        left: 180px; 
+    }
+    article .buba{
+        top: 3440px;
+        left: 180px;
+    }
+    article .k3{
+        top: 3657px;
+        left: 180px;
+    }
+    article .kobby{
+        top: 3880px;
+        left: 180px; 
+    }
+    article .pat{
+        top: 4070px;
+        left: 180px;
+    }
+    article .deborah{
+        top: 4260px;
+        left: 180px;
+    }
+    article .kila{
+        top: 4460px;
+        left: 180px;
+    }
+}
+    img:hover{
+        position: relative;
+        top: -15px;
+    }
+    /* p{
+        color: red;
+    } */
+    
+    /* Navigation section */
+    
+    .page li{
+         display: inline-block;
+         width: 15%;
+         font-size: 20px;
+         
+    }
+    nav a{
+        text-decoration: none;
+        color: black;
+        font-size: 20px;
+        position: fixed;
+        top: 610px;
+        left: 1250px;
+        /* background-color: white; */
+        padding: 5px;
+        margin: 0;
+    }
+    .Page a{
+        display: inline-block;
+         width: 15%;
+         font-size: 20px;
+    }
+    section a{
+        text-decoration: none;
+        color: black;
+        font-size: 20px;
+        position: fixed;
+        top: 610px;
+        left: 1100px;
+        /* background-color: white; */
+        padding: 5px;
+        margin: 0;
+    }
